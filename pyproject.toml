@@ -2,7 +2,7 @@
 name = "quartier_intelligence"
 version = "0.0.1"
 description = "Integrate custom ai agents with quartier intelligence platform."
-authors = ["tj@fluxbuild.io"]
+authors = [{ name = "Tantely Nonja", email = "tj@fluxbuild.io" }]
 license = "AGPL-3.0"
 requires-python = ">=3.10"
 readme = "README.md"
