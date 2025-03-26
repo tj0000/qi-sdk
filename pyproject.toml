@@ -7,10 +7,12 @@ license = "AGPL-3.0"
 requires-python = ">=3.10"
 readme = "README.md"
 dependencies = [
+    "cryptography>=44.0.2",
     "fastapi[standard]>=0.115.11",
     "logfire[fastapi]>=3.9.0",
     "opentelemetry-instrumentation-asgi>=0.52b1",
     "pydantic-settings>=2.8.1",
+    "pyjwt>=2.10.1",
     "requests>=2.32.3",
 ]
 
